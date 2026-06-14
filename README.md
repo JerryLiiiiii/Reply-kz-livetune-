@@ -10,3 +10,10 @@ The `BassDrum` sounds different in my VS Code (e.g., possibly odd). Please **ope
 - **Code License**:This project is an open-source adaptation and is distributed under the same license as strudel, **GNU AGPL-3.0**.
 - **Music Copyright**: The original musical composition "Reply" by **kz (livetune)** is a copyrighted work. This project is an **unofficial adaptation** and claims no ownership of the original composition.
 - **Acknowledgement**: All rights to the original music belong to its respective copyright holder. This adaptation is for personal, non-commercial sharing purposes only. **Please support the original artist by purchasing their official releases**.
+
+# 💖 Support this Project
+
+If you find this project helpful, you can support me via the following platforms:
+
+- [**Ko-fi**](https://ko-fi.com/jerryliiiiii) ☕️ Buy me a coffee
+- [🇨🇳**爱发电**](https://afdian.com/a/JerryLiiiiii) 推荐中国大陆用户使用
